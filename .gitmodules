@@ -1,0 +1,3 @@
+[submodule "libraries/SparkFun_MAX3010x_Pulse_and_Proximity_Sensor_Library"]
+	path = libraries/SparkFun_MAX3010x_Pulse_and_Proximity_Sensor_Library
+	url = https://github.com/sparkfun/SparkFun_MAX3010x_Sensor_Library.git
