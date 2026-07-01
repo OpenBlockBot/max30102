@@ -23,17 +23,12 @@
     "name": {
       "formatMessage": {
         "id": "max30102.name",
-        "default": "MAX30102 Sensor"
+        "default": "MAX30102"
       }
     },
     "extensionId": "max30102",
-    "supportDevice": [
-      "arduinoUno",
-      "arduinoNano",
-      "arduinoLeonardo",
-      "arduinoMega2560",
-      "arduinoEsp32",
-      "arduinoEsp8266"
+    "arch": [
+      "arduino-*"
     ],
     "iconURL": "./assets/max30102.png",
     "description": {
