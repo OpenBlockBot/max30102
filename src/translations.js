@@ -20,19 +20,19 @@
 export default {
     'interface': {
         'en': {
-            'max30102.name': 'MAX30102 Sensor',
+            'max30102.name': 'MAX30102',
             'max30102.description': 'Blood oxygen and heart rate detection module based on MAX30102.'
         },
         'ru': {
-            'max30102.name': 'MAX30102 Sensor',
+            'max30102.name': 'MAX30102',
             'max30102.description': 'Blood oxygen and heart rate detection module based on MAX30102.'
         },
         'zh-cn': {
-            'max30102.name': 'MAX30102 Sensor',
+            'max30102.name': 'MAX30102',
             'max30102.description': 'Blood oxygen and heart rate detection module based on MAX30102.'
         },
         'zh-tw': {
-            'max30102.name': 'MAX30102 Sensor',
+            'max30102.name': 'MAX30102',
             'max30102.description': 'Blood oxygen and heart rate detection module based on MAX30102.'
         }
     },
